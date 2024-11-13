@@ -1,4 +1,7 @@
 # fistRepo
 This is my first git repository
 <br>
-Author - Aditi Paliwal
+Author - Er Aditi Paliwal
+
+<hr>
+
